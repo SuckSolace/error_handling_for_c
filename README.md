@@ -1,1 +1,1 @@
-# error_handling_for_c
+# Some error-handling codes for c.
